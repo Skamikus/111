@@ -6,3 +6,9 @@ body {
 	color: yellow;
 	font-size: 11px;
 }
+
+.small{
+	font-size: 20px;
+	margin: 30px 30px 30px 30px;
+	padding: 40px;
+}
